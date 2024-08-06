@@ -16,3 +16,4 @@ mkdir
 rmdir
 mvdir
 
+health is wealth
